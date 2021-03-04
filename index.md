@@ -1,6 +1,6 @@
 ## Welcome To My Page!
 
-This is where I'll talk about any sort of projects I might be working on
+I'm Brady Wagner and this is where I'll talk about any sort of projects I might be working on.
 
 ### About Me
 
